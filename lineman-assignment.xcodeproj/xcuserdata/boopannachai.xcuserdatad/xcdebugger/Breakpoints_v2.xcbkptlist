@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A8CF9CA-ED3B-40E2-84C4-011673317C82"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3BA3BD8-3C07-4CBC-8580-F8B28ECB0E68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lineman-assignment/Model/DataManger.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "performRequest(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3BA3BD8-3C07-4CBC-8580-F8B28ECB0E68 - c8c42be8f5eac700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lineman_assignment.DataManager.performRequest(with: Swift.String) -&gt; ()"
+                  moduleName = "lineman-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boopannachai/Repositories/Repositories/LearnCodeDeepDive/Internship%20Project/lineman-assignment/lineman-assignment/Model/DataManger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "4044">
+               </Location>
+               <Location
+                  uuid = "B3BA3BD8-3C07-4CBC-8580-F8B28ECB0E68 - c8c42be8f5eac6e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in lineman_assignment.DataManager.performRequest(with: Swift.String) -&gt; ()"
+                  moduleName = "lineman-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boopannachai/Repositories/Repositories/LearnCodeDeepDive/Internship%20Project/lineman-assignment/lineman-assignment/Model/DataManger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
